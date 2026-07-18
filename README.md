@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Salman%20Ali&fontSize=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Salman%20Ali&fontSize=50&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Web%20Developer&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
 # 👋 Hi, I'm Salman Ali
 
 ### 👤 About Me
