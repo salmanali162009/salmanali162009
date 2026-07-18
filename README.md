@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/type=waving&color=0:a120cb,50:23ccd1,100:0fc1a6&height=250&section=header&text=Salman%20Ali&fontSize=50&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Web%20Developer&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlrcDRpYXU5ZW15ajA3eWNxb3Zvb2I1Z3doZGF3b3Ftd2phemNtNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Header Banner" />
 
 # 👋 Hi, I'm Salman Ali
 
