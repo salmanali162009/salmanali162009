@@ -1,4 +1,4 @@
-![Salman's Banner](https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Salman%20Ali&fontSize=50&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Salman%20Ali&fontSize=50&animation=fadeIn" width="100%" />
 # 👋 Hi, I'm Salman Ali
 
 ### 👤 About Me
