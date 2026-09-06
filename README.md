@@ -1,50 +1,114 @@
-
-
 # 👋 Hi, I'm Salman Ali
 
-### 👤 About Me
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 📍 Location: Karachi, Pakistan
-- 📧 Contact: salmanali162009@gmail.com
+### Frontend Developer | React | TypeScript
+
+I build responsive, modern, and user-focused web applications with React and TypeScript.
+
+I'm currently expanding my skills toward full-stack web development and working on real-world projects that focus on clean UI, reusable components, API integration, and responsive design.
 
 ---
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 👨‍💻 About Me
 
-### ☁️ Backend & Cloud
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+- 💻 Frontend Developer focused on React & TypeScript
+- 🌱 Currently learning Full-Stack Web Development
+- 🧩 Interested in building scalable and maintainable web applications
+- 🎨 Focused on responsive UI/UX and clean component architecture
+- 🚀 Building and deploying real-world projects
+- 📍 Karachi, Pakistan
 
 ---
 
-### 🤝 Connect With Me
-<a href="https://www.linkedin.com/in/salman-ali-38a387395/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61589793894674" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.fiverr.com/s/5rwZw57" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-</a>
-<a href="mailto:salmanali162009@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://salmanali-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### UI & Libraries
+
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### Backend & Services
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
 
+### 💪 Xplosive Fitness
 
+A modern fitness website focused on responsive design, visual presentation, and user experience.
+
+🔗 [Live Demo](https://xplosivefitness.netlify.app/)
+
+---
+
+### 🎓 EduTrain
+
+An education-focused React application designed to provide a structured learning experience with modern UI and reusable components.
+
+🔗 [Live Demo](https://edutrain.netlify.app/)
+
+---
+
+### 📊 Ant Design Dashboard
+
+A responsive admin dashboard built with React and Ant Design, focusing on reusable UI components and dashboard layouts.
+
+🔗 [Live Demo](https://antdproject.netlify.app/)
+
+---
+
+### 🛒 React E-Commerce Store
+
+A responsive e-commerce frontend built with React, featuring product-focused UI and modern shopping experience.
+
+🔗 [Live Demo](https://salmanali162009.github.io/react-ecommerce-store/)
+
+---
+
+## 📚 Currently Learning
+
+I'm currently working toward full-stack development and expanding my knowledge in:
+
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Authentication & Security
+- REST APIs
+- Docker
+- CI/CD
+- Backend Architecture
+
+---
+
+## 🎯 Current Focus
+
+```text
+Frontend Development
+        ↓
+React + TypeScript
+        ↓
+Real-World Projects
+        ↓
+Backend Development
+        ↓
+Full-Stack Applications
+        ↓
+Production & Deployment
