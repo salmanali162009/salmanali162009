@@ -122,9 +122,10 @@ A modern fitness website featuring responsive layouts, fitness-focused presentat
 
 ## 🤝 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://salmanali-portfolio.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmanali162009)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-ali-38a387395/)
 
 ---
-
 *Building, learning, and improving one project at a time.*
