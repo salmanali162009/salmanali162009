@@ -35,6 +35,7 @@ Currently pursuing MERN Stack Development at Saylani Mass IT Training (SMIT), Ka
 **Styling & UI Libraries**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
@@ -64,30 +65,38 @@ Currently pursuing MERN Stack Development at Saylani Mass IT Training (SMIT), Ka
 
 ## 🚀 Featured Projects
 
-### 💪 Xplosive Fitness
-A modern fitness website featuring responsive layouts, fitness-focused presentation, and a user-friendly interface.
+### 🛍️ Bazario — MERN E-Commerce
+A full-stack e-commerce application featuring product browsing, product details, and a direct-buy checkout flow.
 
-🔗 [Live Demo](https://xplosivefitness.netlify.app/)
+🔗 [Live Demo](https://bazario-v1.vercel.app/)
+
+---
 
 ### 🎓 EduTrain
 An education-focused React application designed around structured learning content, reusable components, and a modern user interface.
 
 🔗 [Live Demo](https://edutrain.netlify.app/)
 
+---
+
 ### 📊 Ant Design Dashboard
-A responsive admin dashboard built with React and Ant Design, featuring reusable UI components and dashboard layouts.
+A responsive admin dashboard built with React and Ant Design, focusing on reusable UI components and organized dashboard layouts.
 
 🔗 [Live Demo](https://antdproject.netlify.app/)
 
+---
+
 ### 🛒 React E-Commerce Store
-A product-focused e-commerce frontend built with React, featuring a responsive shopping interface.
+A responsive e-commerce frontend built with React, featuring a product-focused interface and modern shopping experience.
 
 🔗 [Live Demo](https://salmanali162009.github.io/react-ecommerce-store/)
 
-### 🛍️ Bazario — MERN E-Commerce
-An e-commerce project focused on product browsing, product details, and a direct-buy checkout flow.
+---
 
-🔗 [Live Demo](https://bazario-v1.vercel.app/)
+### 💪 Xplosive Fitness
+A modern fitness website featuring responsive layouts, fitness-focused presentation, and a user-friendly interface.
+
+🔗 [Live Demo](https://xplosivefitness.netlify.app/)
 
 ---
 
